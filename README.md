@@ -8,39 +8,31 @@
     <a href="mailto:justus.soh@u.nus.edu"><img src="https://img.shields.io/badge/email%20me-justus.soh%40u.nus.edu-orange" alt="JSZH"></a>
 </p>
 
----
-
-### **About Me 🌠**
+## **About Me 🌠**
 I am a Data Scientist and Software Engineer from Singapore. I have a passion for learning and discovering new things ✨. You can see a full list of what I am up to on my [personal webpage jszh.me](https://jszh.me). I am also looking for opportunities to learn in a internship. If you would like to connect, you can find me at [justus.soh@u.nus.edu](mailto:justus.soh@u.nus.edu).
 
 I love what I do, and am constantly honing my craft. You can follow along with me, I try to document my journey the best I can by writing articles on my [dev.to](https://dev.to/justussoh).
 
----
-
-### **My Digital Garden 🌱**
+## **My Digital Garden 🌱**
 
 I write tech blog posts, most of which you will find on [dev.to/justussoh](https://dev.to/justussoh).
 
 I write about cools things I discover, things that I want to reflect on, things I want to remember and things that I am learning.  
 
-##### Blog posts
+#### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Using GitHub Actions to seamlessly deploy Expo applications (Part 2)](https://dev.to/justussoh/using-github-actions-to-seamlessly-deploy-expo-applications-part-2-57mi)
 - [Using GitHub Actions to seamlessly deploy Expo applications (Part 1)](https://dev.to/justussoh/using-github-actions-to-seamlessly-deploy-expo-applications-part-1-3jfb)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-###  **This week I spent my time on ⌛**
+##  **This week I spent my time on ⌛**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
----
-
-###  **My GitHub Stats 📊**
+##  **My GitHub Stats 📊**
 
 <a href="https://github.com/justussoh/justussoh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=shades-of-purple&hide=css,glsl" />
@@ -49,6 +41,7 @@ No Activity tracked this Week
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true&line_height=32" />
 </a>
 
+<br>
 <p align="center">
   <a href="https://github.com/justussoh/justussoh/actions"><img src="https://github.com/justussoh/justussoh/workflows/Latest%20blog%20post%20workflow/badge.svg" alt="Build README"></a>
    <a href="https://github.com/justussoh/justussoh/actions"><img src="https://github.com/justussoh/justussoh/workflows/Update%20stats/badge.svg" alt="Build README"></a>
