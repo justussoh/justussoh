@@ -42,8 +42,12 @@ No Activity tracked this Week
 
 ###  **My GitHub Stats 📊**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shades-of-purple" />
+<a href="https://github.com/justussoh/justussoh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/justussoh/justussoh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true" />
+</a>
 
 <p align="center">
   <a href="https://github.com/justussoh/justussoh/actions"><img src="https://github.com/justussoh/justussoh/workflows/Latest%20blog%20post%20workflow/badge.svg" alt="Build README"></a>
