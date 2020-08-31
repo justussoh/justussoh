@@ -11,7 +11,7 @@
 ---
 
 ### **About Me 🌠**
-I am a Data Scientist and Software Engineer from Singapore. I have a passion for learning and discovering new things ✨.
+I am a Data Scientist and Software Engineer from Singapore. I have a passion for learning and discovering new things ✨. You can see a full list of what I am up to on my [personal webpage jszh.me](https://jszh.me). I am also looking for opportunities to learn in a internship. If you would like to connect, you can find me at [justus.soh@u.nus.edu](mailto:justus.soh@u.nus.edu).
 
 I love what I do, and am constantly honing my craft. You can follow along with me, I try to document my journey the best I can by writing articles on my [dev.to](https://dev.to/justussoh).
 
@@ -41,8 +41,8 @@ No Activity tracked this Week
 ###  **My GitHub Stats 📊**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shades-of-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shades-of-purple" />
 </p>
 
 <p align="center">
