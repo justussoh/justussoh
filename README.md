@@ -46,7 +46,7 @@ No Activity tracked this Week
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=shades-of-purple&hide=css,glsl" />
 </a>
 <a href="https://github.com/justussoh/justussoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true&line_height=32" />
 </a>
 
 <p align="center">
