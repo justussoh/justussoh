@@ -43,7 +43,7 @@ No Activity tracked this Week
 ###  **My GitHub Stats 📊**
 
 <a href="https://github.com/justussoh/justussoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=shades-of-purple&layout=compact" />
 </a>
 <a href="https://github.com/justussoh/justussoh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true" />
