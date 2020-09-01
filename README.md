@@ -25,6 +25,10 @@ I write about cools things I discover, things that I want to reflect on, things 
 - [Using GitHub Actions to seamlessly deploy Expo applications (Part 1)](https://dev.to/justussoh/using-github-actions-to-seamlessly-deploy-expo-applications-part-1-3jfb)
 <!-- BLOG-POST-LIST:END -->
 
+##  **My recent activities** :zap:
+
+<!--START_SECTION:activity-->
+
 ##  **This week I spent my time on ⌛**
 <!--START_SECTION:waka-->
 ```text
@@ -41,10 +45,12 @@ No Activity tracked this Week
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justussoh&show_icons=true&count_private=true&hide=stars&theme=shades-of-purple&include_all_commits=true&line_height=32" />
 </a>
 
-<br>
+
+
 <p align="center">
   <a href="https://github.com/justussoh/justussoh/actions"><img src="https://github.com/justussoh/justussoh/workflows/Latest%20blog%20post%20workflow/badge.svg" alt="Build README"></a>
    <a href="https://github.com/justussoh/justussoh/actions"><img src="https://github.com/justussoh/justussoh/workflows/Update%20stats/badge.svg" alt="Build README"></a>
+   <a href="https://github.com/justussoh/justussoh/actions"><img src="https://github.com/justussoh/justussoh/workflows/Recent%20Activities/badge.svg" alt="Build README"></a>
 </p>
 
 
