@@ -28,11 +28,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//Open-Attestation/decentralized-renderer-react-template/pull/6) in [Open-Attestation/decentralized-renderer-react-template](https://github.com//Open-Attestation/decentralized-renderer-react-template)
-2. 🎉 Merged PR [#209](https://github.com//TradeTrust/tradetrust-website/pull/209) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
-3. 🎉 Merged PR [#10](https://github.com//tradetrust-demo/certificate-of-non-manipulation-demo/pull/10) in [tradetrust-demo/certificate-of-non-manipulation-demo](https://github.com//tradetrust-demo/certificate-of-non-manipulation-demo)
-4. 💪 Opened PR [#10](https://github.com//tradetrust-demo/certificate-of-non-manipulation-demo/pull/10) in [tradetrust-demo/certificate-of-non-manipulation-demo](https://github.com//tradetrust-demo/certificate-of-non-manipulation-demo)
-5. 🎉 Merged PR [#204](https://github.com//TradeTrust/tradetrust-website/pull/204) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+1. 💪 Opened PR [#230](https://github.com//TradeTrust/tradetrust-website/pull/230) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+2. ❗️ Opened issue [#229](https://github.com//TradeTrust/tradetrust-website/issues/229) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+3. 🎉 Merged PR [#6](https://github.com//Open-Attestation/decentralized-renderer-react-template/pull/6) in [Open-Attestation/decentralized-renderer-react-template](https://github.com//Open-Attestation/decentralized-renderer-react-template)
+4. 🎉 Merged PR [#209](https://github.com//TradeTrust/tradetrust-website/pull/209) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+5. 🎉 Merged PR [#10](https://github.com//tradetrust-demo/certificate-of-non-manipulation-demo/pull/10) in [tradetrust-demo/certificate-of-non-manipulation-demo](https://github.com//tradetrust-demo/certificate-of-non-manipulation-demo)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
