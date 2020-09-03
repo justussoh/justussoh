@@ -1,4 +1,4 @@
-![banner](/assets/banner.png)
+![banner](\assets\banner.png)
 
 # Hi there, Im Justus 👋
 
