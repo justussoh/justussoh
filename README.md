@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//Open-Attestation/ethers-contract-hooks/pull/6) in [Open-Attestation/ethers-contract-hooks](https://github.com//Open-Attestation/ethers-contract-hooks)
-2. 💪 Opened PR [#6](https://github.com//Open-Attestation/ethers-contract-hooks/pull/6) in [Open-Attestation/ethers-contract-hooks](https://github.com//Open-Attestation/ethers-contract-hooks)
-3. 🎉 Merged PR [#230](https://github.com//TradeTrust/tradetrust-website/pull/230) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
-4. 💪 Opened PR [#230](https://github.com//TradeTrust/tradetrust-website/pull/230) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
-5. ❗️ Opened issue [#229](https://github.com//TradeTrust/tradetrust-website/issues/229) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+1. 💪 Opened PR [#234](https://github.com//TradeTrust/tradetrust-website/pull/234) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+2. 🎉 Merged PR [#6](https://github.com//Open-Attestation/ethers-contract-hooks/pull/6) in [Open-Attestation/ethers-contract-hooks](https://github.com//Open-Attestation/ethers-contract-hooks)
+3. 💪 Opened PR [#6](https://github.com//Open-Attestation/ethers-contract-hooks/pull/6) in [Open-Attestation/ethers-contract-hooks](https://github.com//Open-Attestation/ethers-contract-hooks)
+4. 🎉 Merged PR [#230](https://github.com//TradeTrust/tradetrust-website/pull/230) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+5. 💪 Opened PR [#230](https://github.com//TradeTrust/tradetrust-website/pull/230) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
