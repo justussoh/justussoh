@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com//TradeTrust/tradetrust-website/issues/243) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
-2. 💪 Opened PR [#55](https://github.com//TradeTrust/document-creator-website/pull/55) in [TradeTrust/document-creator-website](https://github.com//TradeTrust/document-creator-website)
-3. 💪 Opened PR [#243](https://github.com//TradeTrust/tradetrust-website/pull/243) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
-4. 🎉 Merged PR [#12](https://github.com//Open-Attestation/token-registry/pull/12) in [Open-Attestation/token-registry](https://github.com//Open-Attestation/token-registry)
-5. 💪 Opened PR [#12](https://github.com//Open-Attestation/token-registry/pull/12) in [Open-Attestation/token-registry](https://github.com//Open-Attestation/token-registry)
+1. 🎉 Merged PR [#243](https://github.com//TradeTrust/tradetrust-website/pull/243) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+2. 🗣 Commented on [#243](https://github.com//TradeTrust/tradetrust-website/issues/243) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+3. 💪 Opened PR [#55](https://github.com//TradeTrust/document-creator-website/pull/55) in [TradeTrust/document-creator-website](https://github.com//TradeTrust/document-creator-website)
+4. 💪 Opened PR [#243](https://github.com//TradeTrust/tradetrust-website/pull/243) in [TradeTrust/tradetrust-website](https://github.com//TradeTrust/tradetrust-website)
+5. 🎉 Merged PR [#12](https://github.com//Open-Attestation/token-registry/pull/12) in [Open-Attestation/token-registry](https://github.com//Open-Attestation/token-registry)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
