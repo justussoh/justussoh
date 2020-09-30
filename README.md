@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Open-Attestation/token-registry/pull/15) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
-2. 💪 Opened PR [#15](https://github.com/Open-Attestation/token-registry/pull/15) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
-3. ❗️ Opened issue [#247](https://github.com/TradeTrust/tradetrust-website/issues/247) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-4. 💪 Opened PR [#246](https://github.com/TradeTrust/tradetrust-website/pull/246) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-5. 🎉 Merged PR [#212](https://github.com/TradeTrust/tradetrust-website/pull/212) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+1. 💪 Opened PR [#26](https://github.com/Open-Attestation/adr/pull/26) in [Open-Attestation/adr](https://github.com/Open-Attestation/adr)
+2. 🎉 Merged PR [#15](https://github.com/Open-Attestation/token-registry/pull/15) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
+3. 💪 Opened PR [#15](https://github.com/Open-Attestation/token-registry/pull/15) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
+4. ❗️ Opened issue [#247](https://github.com/TradeTrust/tradetrust-website/issues/247) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+5. 💪 Opened PR [#246](https://github.com/TradeTrust/tradetrust-website/pull/246) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
