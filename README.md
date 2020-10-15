@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#256](https://github.com/TradeTrust/tradetrust-website/pull/256) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-2. 🎉 Merged PR [#251](https://github.com/TradeTrust/tradetrust-website/pull/251) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-3. 🎉 Merged PR [#16](https://github.com/Open-Attestation/token-registry/pull/16) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
-4. 💪 Opened PR [#16](https://github.com/Open-Attestation/token-registry/pull/16) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
-5. 🗣 Commented on [#14](https://github.com/Open-Attestation/token-registry/issues/14) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
+1. 🎉 Merged PR [#2](https://github.com/TradeTrust/address-identity-resolver/pull/2) in [TradeTrust/address-identity-resolver](https://github.com/TradeTrust/address-identity-resolver)
+2. 💪 Opened PR [#2](https://github.com/TradeTrust/address-identity-resolver/pull/2) in [TradeTrust/address-identity-resolver](https://github.com/TradeTrust/address-identity-resolver)
+3. 💪 Opened PR [#256](https://github.com/TradeTrust/tradetrust-website/pull/256) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+4. 🎉 Merged PR [#251](https://github.com/TradeTrust/tradetrust-website/pull/251) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+5. 🎉 Merged PR [#16](https://github.com/Open-Attestation/token-registry/pull/16) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
