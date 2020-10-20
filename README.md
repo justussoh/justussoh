@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/Open-Attestation/token-registry/issues/13) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
-2. 🎉 Merged PR [#3](https://github.com/TradeTrust/address-identity-resolver/pull/3) in [TradeTrust/address-identity-resolver](https://github.com/TradeTrust/address-identity-resolver)
-3. 🗣 Commented on [#229](https://github.com/TradeTrust/tradetrust-website/issues/229) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-4. ❗️ Closed issue [#14](https://github.com/Open-Attestation/token-registry/issues/14) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
-5. 🗣 Commented on [#13](https://github.com/Open-Attestation/token-registry/issues/13) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
+1. 🗣 Commented on [#261](https://github.com/TradeTrust/tradetrust-website/issues/261) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+2. 🎉 Merged PR [#256](https://github.com/TradeTrust/tradetrust-website/pull/256) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+3. ❗️ Closed issue [#229](https://github.com/TradeTrust/tradetrust-website/issues/229) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+4. ❗️ Closed issue [#13](https://github.com/Open-Attestation/token-registry/issues/13) in [Open-Attestation/token-registry](https://github.com/Open-Attestation/token-registry)
+5. 🎉 Merged PR [#3](https://github.com/TradeTrust/address-identity-resolver/pull/3) in [TradeTrust/address-identity-resolver](https://github.com/TradeTrust/address-identity-resolver)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
