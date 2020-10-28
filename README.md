@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/TradeTrust/tradetrust-ui-components/pull/6) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-2. 💪 Opened PR [#5](https://github.com/TradeTrust/tradetrust-ui-components/pull/5) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-3. 🎉 Merged PR [#4](https://github.com/TradeTrust/tradetrust-ui-components/pull/4) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-4. 💪 Opened PR [#4](https://github.com/TradeTrust/tradetrust-ui-components/pull/4) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-5. 🎉 Merged PR [#3](https://github.com/TradeTrust/tradetrust-ui-components/pull/3) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+1. 🎉 Merged PR [#6](https://github.com/TradeTrust/tradetrust-ui-components/pull/6) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+2. 🎉 Merged PR [#5](https://github.com/TradeTrust/tradetrust-ui-components/pull/5) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+3. 💪 Opened PR [#6](https://github.com/TradeTrust/tradetrust-ui-components/pull/6) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+4. 💪 Opened PR [#5](https://github.com/TradeTrust/tradetrust-ui-components/pull/5) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+5. 🎉 Merged PR [#4](https://github.com/TradeTrust/tradetrust-ui-components/pull/4) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
