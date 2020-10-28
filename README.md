@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/TradeTrust/tradetrust-ui-components/pull/7) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-2. 🎉 Merged PR [#6](https://github.com/TradeTrust/tradetrust-ui-components/pull/6) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-3. 🎉 Merged PR [#5](https://github.com/TradeTrust/tradetrust-ui-components/pull/5) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-4. 💪 Opened PR [#6](https://github.com/TradeTrust/tradetrust-ui-components/pull/6) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
-5. 💪 Opened PR [#5](https://github.com/TradeTrust/tradetrust-ui-components/pull/5) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+1. 💪 Opened PR [#263](https://github.com/TradeTrust/tradetrust-website/pull/263) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+2. 💪 Opened PR [#7](https://github.com/TradeTrust/tradetrust-ui-components/pull/7) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+3. 🎉 Merged PR [#6](https://github.com/TradeTrust/tradetrust-ui-components/pull/6) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+4. 🎉 Merged PR [#5](https://github.com/TradeTrust/tradetrust-ui-components/pull/5) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
+5. 💪 Opened PR [#6](https://github.com/TradeTrust/tradetrust-ui-components/pull/6) in [TradeTrust/tradetrust-ui-components](https://github.com/TradeTrust/tradetrust-ui-components)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
