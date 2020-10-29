@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#265](https://github.com/TradeTrust/tradetrust-website/issues/265) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-2. ❗️ Closed issue [#60](https://github.com/TradeTrust/tradetrust-website/issues/60) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-3. ❗️ Reopened issue [#14](https://github.com/TradeTrust/tradetrust-website/issues/14) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-4. 🗣 Commented on [#60](https://github.com/TradeTrust/tradetrust-website/issues/60) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-5. ❗️ Closed issue [#44](https://github.com/TradeTrust/tradetrust-website/issues/44) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+1. 🎉 Merged PR [#263](https://github.com/TradeTrust/tradetrust-website/pull/263) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+2. ❗️ Closed issue [#157](https://github.com/TradeTrust/tradetrust-website/issues/157) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+3. ❗️ Opened issue [#265](https://github.com/TradeTrust/tradetrust-website/issues/265) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+4. ❗️ Closed issue [#60](https://github.com/TradeTrust/tradetrust-website/issues/60) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+5. ❗️ Reopened issue [#14](https://github.com/TradeTrust/tradetrust-website/issues/14) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
