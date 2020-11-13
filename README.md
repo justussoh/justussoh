@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/TradeTrust/document-creator-website/pull/74) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
-2. 💪 Opened PR [#74](https://github.com/TradeTrust/document-creator-website/pull/74) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
-3. 🎉 Merged PR [#57](https://github.com/TradeTrust/document-creator-website/pull/57) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
-4. 🗣 Commented on [#956](https://github.com/ethers-io/ethers.js/issues/956) in [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)
-5. 🎉 Merged PR [#72](https://github.com/TradeTrust/document-creator-website/pull/72) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+1. 💪 Opened PR [#76](https://github.com/TradeTrust/document-creator-website/pull/76) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+2. 🎉 Merged PR [#74](https://github.com/TradeTrust/document-creator-website/pull/74) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+3. 💪 Opened PR [#74](https://github.com/TradeTrust/document-creator-website/pull/74) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+4. 🎉 Merged PR [#57](https://github.com/TradeTrust/document-creator-website/pull/57) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+5. 🗣 Commented on [#956](https://github.com/ethers-io/ethers.js/issues/956) in [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
