@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#276](https://github.com/TradeTrust/tradetrust-website/pull/276) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-2. ❗️ Opened issue [#46](https://github.com/Open-Attestation/gallery/issues/46) in [Open-Attestation/gallery](https://github.com/Open-Attestation/gallery)
-3. 💪 Opened PR [#276](https://github.com/TradeTrust/tradetrust-website/pull/276) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
-4. 💪 Opened PR [#76](https://github.com/Open-Attestation/document-store/pull/76) in [Open-Attestation/document-store](https://github.com/Open-Attestation/document-store)
-5. 💪 Opened PR [#76](https://github.com/TradeTrust/document-creator-website/pull/76) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+1. 💪 Opened PR [#282](https://github.com/TradeTrust/tradetrust-website/pull/282) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+2. 🎉 Merged PR [#276](https://github.com/TradeTrust/tradetrust-website/pull/276) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+3. ❗️ Opened issue [#46](https://github.com/Open-Attestation/gallery/issues/46) in [Open-Attestation/gallery](https://github.com/Open-Attestation/gallery)
+4. 💪 Opened PR [#276](https://github.com/TradeTrust/tradetrust-website/pull/276) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+5. 💪 Opened PR [#76](https://github.com/Open-Attestation/document-store/pull/76) in [Open-Attestation/document-store](https://github.com/Open-Attestation/document-store)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
