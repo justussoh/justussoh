@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#537](https://github.com/opengsn/gsn/issues/537) in [opengsn/gsn](https://github.com/opengsn/gsn)
-2. 🎉 Merged PR [#79](https://github.com/Open-Attestation/document-store/pull/79) in [Open-Attestation/document-store](https://github.com/Open-Attestation/document-store)
-3. 💪 Opened PR [#79](https://github.com/Open-Attestation/document-store/pull/79) in [Open-Attestation/document-store](https://github.com/Open-Attestation/document-store)
-4. 💪 Opened PR [#78](https://github.com/Open-Attestation/document-store/pull/78) in [Open-Attestation/document-store](https://github.com/Open-Attestation/document-store)
-5. 🎉 Merged PR [#285](https://github.com/TradeTrust/tradetrust-website/pull/285) in [TradeTrust/tradetrust-website](https://github.com/TradeTrust/tradetrust-website)
+1. 🎉 Merged PR [#76](https://github.com/TradeTrust/document-creator-website/pull/76) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+2. ❗️ Opened issue [#86](https://github.com/TradeTrust/document-creator-website/issues/86) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+3. ❗️ Opened issue [#85](https://github.com/TradeTrust/document-creator-website/issues/85) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+4. ❗️ Opened issue [#537](https://github.com/opengsn/gsn/issues/537) in [opengsn/gsn](https://github.com/opengsn/gsn)
+5. 🎉 Merged PR [#79](https://github.com/Open-Attestation/document-store/pull/79) in [Open-Attestation/document-store](https://github.com/Open-Attestation/document-store)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
