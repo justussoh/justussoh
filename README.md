@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/Open-Attestation/open-attestation-cli/pull/101) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
-2. 💪 Opened PR [#103](https://github.com/Open-Attestation/open-attestation-cli/pull/103) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
-3. 💪 Opened PR [#101](https://github.com/Open-Attestation/open-attestation-cli/pull/101) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
-4. 🎉 Merged PR [#78](https://github.com/Open-Attestation/document-store/pull/78) in [Open-Attestation/document-store](https://github.com/Open-Attestation/document-store)
-5. 🎉 Merged PR [#76](https://github.com/TradeTrust/document-creator-website/pull/76) in [TradeTrust/document-creator-website](https://github.com/TradeTrust/document-creator-website)
+1. 💪 Opened PR [#106](https://github.com/Open-Attestation/open-attestation-cli/pull/106) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
+2. 🎉 Merged PR [#103](https://github.com/Open-Attestation/open-attestation-cli/pull/103) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
+3. 🎉 Merged PR [#101](https://github.com/Open-Attestation/open-attestation-cli/pull/101) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
+4. 💪 Opened PR [#103](https://github.com/Open-Attestation/open-attestation-cli/pull/103) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
+5. 💪 Opened PR [#101](https://github.com/Open-Attestation/open-attestation-cli/pull/101) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
