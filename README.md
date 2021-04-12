@@ -31,8 +31,8 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/payrollah/payrollah-website/pull/5) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
-2. ❗️ Opened issue [#107](https://github.com/Open-Attestation/open-attestation-cli/issues/107) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
+1. 💪 Opened PR [#13](https://github.com/payrollah/payrollah-website/pull/13) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
+2. 💪 Opened PR [#5](https://github.com/payrollah/payrollah-website/pull/5) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
 3. 💪 Opened PR [#59](https://github.com/Open-Attestation/documentation-website/pull/59) in [Open-Attestation/documentation-website](https://github.com/Open-Attestation/documentation-website)
 4. 🗣 Commented on [#106](https://github.com/Open-Attestation/open-attestation-cli/issues/106) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
 5. 💪 Opened PR [#106](https://github.com/Open-Attestation/open-attestation-cli/pull/106) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
