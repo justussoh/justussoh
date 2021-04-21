@@ -41,8 +41,7 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **This week I spent my time on ⌛**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 11 mins    ████████████████░░░░░░░░░   64.47 % 
-Markdown     38 mins         ████████▓░░░░░░░░░░░░░░░░   34.83 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
