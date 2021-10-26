@@ -31,7 +31,7 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/payrollah/payrollah-website/pull/18) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
+1. 🗣 Commented on [#1](https://github.com/BNN-UPC/GNN-NIDS/issues/1) in [BNN-UPC/GNN-NIDS](https://github.com/BNN-UPC/GNN-NIDS)
 2. 💪 Opened PR [#14](https://github.com/payrollah/payrollah-website/pull/14) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
 3. 💪 Opened PR [#13](https://github.com/payrollah/payrollah-website/pull/13) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
 4. 💪 Opened PR [#5](https://github.com/payrollah/payrollah-website/pull/5) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
