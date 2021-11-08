@@ -24,8 +24,8 @@ I write about cools things I discover, things that I want to reflect on, things 
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Actions to seamlessly deploy Expo applications (Part 2)](https://dev.to/justussoh/using-github-actions-to-seamlessly-deploy-expo-applications-part-2-57mi)
-- [Using GitHub Actions to seamlessly deploy Expo applications (Part 1)](https://dev.to/justussoh/using-github-actions-to-seamlessly-deploy-expo-applications-part-1-3jfb)
+- [Using GitHub Actions to seamlessly deploy Expo applications &lpar;Part 2&rpar;](https://dev.to/justussoh/using-github-actions-to-seamlessly-deploy-expo-applications-part-2-57mi)
+- [Using GitHub Actions to seamlessly deploy Expo applications &lpar;Part 1&rpar;](https://dev.to/justussoh/using-github-actions-to-seamlessly-deploy-expo-applications-part-1-3jfb)
 <!-- BLOG-POST-LIST:END -->
 
 ##  **My recent activities** :zap:
