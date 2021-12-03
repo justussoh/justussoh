@@ -41,10 +41,8 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **This week I spent my time on ⌛**
 <!--START_SECTION:waka-->
 ```text
-CSS          51 mins         ████████████████▒░░░░░░░░   65.61 % 
-JSON         16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
-JavaScript   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+CSS          22 mins         █████████████████████▓░░░   86.62 % 
+JSON         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 ```
 <!--END_SECTION:waka-->
 
