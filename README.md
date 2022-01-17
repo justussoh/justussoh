@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2122](https://github.com/Miodec/monkeytype/pull/2122) in [Miodec/monkeytype](https://github.com/Miodec/monkeytype)
-2. 🗣 Commented on [#1](https://github.com/BNN-UPC/GNN-NIDS/issues/1) in [BNN-UPC/GNN-NIDS](https://github.com/BNN-UPC/GNN-NIDS)
-3. 💪 Opened PR [#13](https://github.com/payrollah/payrollah-website/pull/13) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
-4. 💪 Opened PR [#5](https://github.com/payrollah/payrollah-website/pull/5) in [payrollah/payrollah-website](https://github.com/payrollah/payrollah-website)
-5. 💪 Opened PR [#106](https://github.com/Open-Attestation/open-attestation-cli/pull/106) in [Open-Attestation/open-attestation-cli](https://github.com/Open-Attestation/open-attestation-cli)
+1. 🎉 Merged PR [#2](https://github.com/justussoh/zmk/pull/2) in [justussoh/zmk](https://github.com/justussoh/zmk)
+2. 💪 Opened PR [#2](https://github.com/justussoh/zmk/pull/2) in [justussoh/zmk](https://github.com/justussoh/zmk)
+3. 🎉 Merged PR [#1](https://github.com/justussoh/zmk/pull/1) in [justussoh/zmk](https://github.com/justussoh/zmk)
+4. 💪 Opened PR [#1](https://github.com/justussoh/zmk/pull/1) in [justussoh/zmk](https://github.com/justussoh/zmk)
+5. 🗣 Commented on [#1094](https://github.com/zmkfirmware/zmk/issues/1094) in [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
