@@ -41,7 +41,9 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **This week I spent my time on ⌛**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C         8 mins          █████████▒░░░░░░░░░░░░░░░   37.01 % 
+YAML      8 mins          ████████▒░░░░░░░░░░░░░░░░   33.62 % 
+Other     6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.94 % 
 ```
 <!--END_SECTION:waka-->
 
