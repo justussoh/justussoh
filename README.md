@@ -31,11 +31,11 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **My recent activities** :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/justussoh/zmk/pull/2) in [justussoh/zmk](https://github.com/justussoh/zmk)
-2. 💪 Opened PR [#2](https://github.com/justussoh/zmk/pull/2) in [justussoh/zmk](https://github.com/justussoh/zmk)
-3. 🎉 Merged PR [#1](https://github.com/justussoh/zmk/pull/1) in [justussoh/zmk](https://github.com/justussoh/zmk)
-4. 💪 Opened PR [#1](https://github.com/justussoh/zmk/pull/1) in [justussoh/zmk](https://github.com/justussoh/zmk)
-5. 🗣 Commented on [#1094](https://github.com/zmkfirmware/zmk/issues/1094) in [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
+1. 🎉 Merged PR [#3](https://github.com/justussoh/zmk/pull/3) in [justussoh/zmk](https://github.com/justussoh/zmk)
+2. 💪 Opened PR [#3](https://github.com/justussoh/zmk/pull/3) in [justussoh/zmk](https://github.com/justussoh/zmk)
+3. 🎉 Merged PR [#2](https://github.com/justussoh/zmk/pull/2) in [justussoh/zmk](https://github.com/justussoh/zmk)
+4. 💪 Opened PR [#2](https://github.com/justussoh/zmk/pull/2) in [justussoh/zmk](https://github.com/justussoh/zmk)
+5. 🎉 Merged PR [#1](https://github.com/justussoh/zmk/pull/1) in [justussoh/zmk](https://github.com/justussoh/zmk)
 <!--END_SECTION:activity-->
 
 ##  **This week I spent my time on ⌛**
