@@ -41,8 +41,8 @@ I write about cools things I discover, things that I want to reflect on, things 
 ##  **This week I spent my time on ⌛**
 <!--START_SECTION:waka-->
 ```text
-C            7 hrs 58 mins   ██████████████████░░░░░░░   71.69 % 
-Other        1 hr 38 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+C            7 hrs 58 mins   ██████████████████░░░░░░░   71.68 % 
+Other        1 hr 38 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 Kconfig      1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 Devicetree   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
