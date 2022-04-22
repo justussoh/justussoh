@@ -42,9 +42,9 @@ I write about cools things I discover, things that I want to reflect on, things 
 <!--START_SECTION:waka-->
 
 ```text
-Python     9 hrs 27 mins   ███████████████████████░░   92.62 %
-INI        38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Text       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python     5 hrs 47 mins   ██████████████████████▒░░   89.86 %
+INI        32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Text       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
