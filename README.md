@@ -42,10 +42,8 @@ I write about cools things I discover, things that I want to reflect on, things 
 <!--START_SECTION:waka-->
 
 ```text
-XML          2 mins          ███████████░░░░░░░░░░░░░░   43.77 %
-C#           2 mins          ████████▓░░░░░░░░░░░░░░░░   34.45 %
-JavaScript   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.14 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+C#           2 mins          ███████████████▓░░░░░░░░░   62.06 %
+JavaScript   1 min           █████████▒░░░░░░░░░░░░░░░   37.94 %
 ```
 
 <!--END_SECTION:waka-->
