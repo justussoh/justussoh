@@ -42,8 +42,7 @@ I write about cools things I discover, things that I want to reflect on, things 
 <!--START_SECTION:waka-->
 
 ```text
-C#           2 mins          ███████████████▓░░░░░░░░░   62.06 %
-JavaScript   1 min           █████████▒░░░░░░░░░░░░░░░   37.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
