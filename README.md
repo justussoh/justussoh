@@ -42,8 +42,7 @@ I write about cools things I discover, things that I want to reflect on, things 
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 mins          ████████████████████░░░░░   79.79 %
-Text     1 min           █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
