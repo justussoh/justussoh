@@ -42,8 +42,8 @@ I write about cools things I discover, things that I want to reflect on, things 
 <!--START_SECTION:waka-->
 
 ```txt
-Python     50 mins         ███████████████████████▓░   94.40 %
-Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Python     1 hr 40 mins    ████████████████████████▒   97.12 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
