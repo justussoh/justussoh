@@ -1,5 +1,3 @@
-[![Banner](https://raw.githubusercontent.com/justussoh/justussoh/master/assets/banner.png "Banner")](https://jszh.me/)
-
 # Hi there, Im Justus 👋
 
 <p align="center">
