@@ -7,7 +7,7 @@
 	<a href="https://www.linkedin.com/in/justussoh"><img src="https://img.shields.io/badge/-justussoh-0072b1?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/justussoh"><img src="https://img.shields.io/badge/justussoh-%2312100E.svg?logo=dev.to&logoColor=white" alt="LinkedIn"></a>
   <a href="https://jszh.me"><img src="https://img.shields.io/website?down_color=red&down_message=dead&label=jszh.me&up_color=fcbd0b&up_message=live&url=https%3A%2F%2Fjszh.me%2F&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAb1BMVEUkJSYkJSYjJCU3ODkqKyxTVFU2NzgoKSorLC1UVFU4OTo1NjdRUlNXWFk2NjcnKCk+P0BFRkclJiciIyRSU1RWV1hgYWFjY2RPUFFVVVYpKistLi5ub296e3uAgYF9fX54eXl1dnYvMDEmJyj///9x8iT+AAAAAXRSTlP+GuMHfQAAAAFiS0dEJLQG+ZkAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfkCQESLBYm6l/BAAAAS0lEQVQI12NgRAEM2LlMqFxmFhQuKxsTgsvOwcmF4DJx8/DyIcnyCwgKCcO5IqJi4hKSUhAuk7SMrJy8gqISE1SWXxkE8LgKK5cBADKeA7PVvxh+AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA5LTAxVDE4OjQ0OjE1KzAwOjAwnBukZAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wOS0wMVQxODo0NDoxNSswMDowMO1GHNgAAAAASUVORK5CYII=" alt="JSZH"></a>
-  <a href="mailto:justus.soh@u.nus.edu"><img src="https://img.shields.io/badge/-justus.soh@u.nus.edu-orange?logo=Gmail&logoColor=white" alt="justus.soh@u.nus.edu"></a>
+  <a href="mailto:justus.soh@hotmail.com"><img src="https://img.shields.io/badge/-hotmail.com-orange?logo=Gmail&logoColor=white" alt="hotmail.com"></a>
 </p>
 
 ## **About Me 🌠**
